@@ -1,0 +1,9 @@
+.title {
+  /* background-color: brown; */
+  color: white;
+}
+html {
+  background-image: url(./burger.jpg);
+  /* background-size: ; */
+  background-repeat: no-repeat;
+}
